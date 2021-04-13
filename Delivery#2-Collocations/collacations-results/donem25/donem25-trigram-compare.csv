@@ -1,0 +1,9 @@
+,Frequency,PMI,t-test,Chi-Sq Test
+0,"('türkiye', 'büyük', 'millet')","('radyo', 'televizyon', 'üst')","('türkiye', 'büyük', 'millet')","('radyo', 'televizyon', 'üst')"
+1,"('büyük', 'millet', 'meclisi')","('mehmet', 'doğan', 'kubat')","('büyük', 'millet', 'meclisi')","('mehmet', 'doğan', 'kubat')"
+2,"('büyük', 'millet', 'meclisinin')","('milliyetçi', 'hareket', 'partisi')","('büyük', 'millet', 'meclisinin')","('milliyetçi', 'hareket', 'partisi')"
+3,"('milliyetçi', 'hareket', 'partisi')","('cumhuriyet', 'halk', 'partisi')","('milliyetçi', 'hareket', 'partisi')","('türkiye', 'büyük', 'millet')"
+4,"('cumhuriyet', 'halk', 'partisi')","('grup', 'başkan', 'vekili')","('cumhuriyet', 'halk', 'partisi')","('cumhuriyet', 'halk', 'partisi')"
+5,"('mehmet', 'doğan', 'kubat')","('büyük', 'millet', 'meclisinin')","('mehmet', 'doğan', 'kubat')","('büyük', 'millet', 'meclisi')"
+6,"('radyo', 'televizyon', 'üst')","('büyük', 'millet', 'meclisi')","('radyo', 'televizyon', 'üst')","('büyük', 'millet', 'meclisinin')"
+7,"('grup', 'başkan', 'vekili')","('türkiye', 'büyük', 'millet')","('grup', 'başkan', 'vekili')","('grup', 'başkan', 'vekili')"

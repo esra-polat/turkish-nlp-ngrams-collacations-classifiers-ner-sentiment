@@ -1,0 +1,9 @@
+,trigram,t
+0,"('türkiye', 'büyük', 'millet')",18.383239010868433
+1,"('büyük', 'millet', 'meclisi')",14.49043755206911
+2,"('büyük', 'millet', 'meclisinin')",8.887673134280169
+3,"('milliyetçi', 'hareket', 'partisi')",8.831622557882186
+4,"('cumhuriyet', 'halk', 'partisi')",8.185215263822633
+5,"('mehmet', 'doğan', 'kubat')",6.480708496110613
+6,"('radyo', 'televizyon', 'üst')",5.56776086380044
+7,"('grup', 'başkan', 'vekili')",5.477035889979905
