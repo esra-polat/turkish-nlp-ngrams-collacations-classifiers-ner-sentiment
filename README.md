@@ -1,6 +1,6 @@
 # Turkish NLP 
 These programs was implemented with Python on the Kaggle Notebook.
-
+https://www.kaggle.com/esrapolat
 ---------
 # n-grams
 How we clean corpus from meaningless characters and stop words:
