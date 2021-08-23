@@ -1,5 +1,5 @@
 # Turkish NLP 
-These programs was implemented with Python on the Kaggle Notebook.
+These programs were implemented with Python on the Kaggle Notebook.
 https://www.kaggle.com/esrapolat
 
 ---------
